@@ -1,9 +1,0 @@
-这是个 测试文件
-修改之后的文件
-gaodongsheng
-zhongjieyu
-i dont know
-fsdfsdfsd
-hello world
-printf....
-I'm success
