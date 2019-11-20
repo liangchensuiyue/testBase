@@ -1,12 +1,4 @@
 this is 1.txt
 modified
 modified
-2222222222222222
-qqqqqqqqqqqqqqqqqqqqqqqqqqq
-
-````````000000000000000000
-<<<<<<< HEAD
-nnnnnnnnnnnnnnnnnnnnn
-=======
-wwwwwwwwwwwwwwwwwwwww
->>>>>>> e391136659ef5e7fa060a42bedb9830257807da4
+222222222222222
